@@ -1,12 +1,12 @@
 # Siri Installer
-[![Run on Repl.it](https://repl.it/badge/github/ErdemBey1/Siriinstaller)](https://repl.it/github/ErdemBey1/Siriinstaller)
+[![Run on Repl.it](https://repl.it/badge/github/FrukanN/unusdep)](https://repl.it/github/FrukanN/UnusUserBot)
 
 SiriUserbot Otomatik Deployer
 
-Siri UserBot Reposunu kontrol edin: https://github.com/ErdemBey1/SiriUserBot
+Siri UserBot Reposunu kontrol edin: https://github.com/FrukanN/UnusUserBot
 ## Kurulum
 ```sh
-git clone https://github.com/ErdemBey1/siriuserbot 
+git clone https://github.com/FrukanN/UnusUserBot
 cd installer
 pip install -r requirements.txt
 python3 -m siri_installer
@@ -14,7 +14,7 @@ python3 -m siri_installer
 
 ### Termux Kurulum
 
-``` bash <(curl -L https://bit.ly/3tUBVha) ```
+
 
 ## Geliştiriciler
 
